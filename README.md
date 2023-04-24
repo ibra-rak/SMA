@@ -77,6 +77,7 @@ Comme visualisé plus haut, les résolutions faciles et rapides (correspondant a
 On se rend également compte que, tandis que pour ***self.mode=True*** on obtient 100% de convergences, elles demeurent rares pour ***self.mode=False*** d'où la nécessité de ce paramètre.
 
 Par ailleurs, la variation du nombre d'items a également, un effet sur le nombre de tours moyens nécessaires pour atteindre la convergence :
+
 ![image](https://user-images.githubusercontent.com/104861612/233895738-dcf5edaf-594c-42dd-a159-3ddb98189209.png)
 
 Par ailleurs, l'écart-type (relatif et absolu) augmente très fortement avec le nombre d'items, jusqu'à se stabiliser au delà d'un certain seuil ; les distributions sont alors similaires à celle tracée plus haut.
