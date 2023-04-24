@@ -70,4 +70,8 @@ L'alternance est bien respectée, ainsi que la logique de l'échange et des perf
 
 ### Résultats statistiques
 
-Comme visualisé plus haut, les résolutions faciles et rapides (correspondant au fichier ***templateSMA.csv***, résolution en 5 tours) sont envisageables mais pas systématiques (comme en témoigne le fichier ***templateSMA2.csv***, resolution en 162 tours). En remplaçant les indices de la liste ***pvalues*** par *random.randint(O,4)* (lignes 111/112, pw_arg.py), on peut réaliser une analyse statistique du nombre de tours nécéssaires à une convergence.
+Comme visualisé plus haut, les résolutions faciles et rapides (correspondant au fichier ***templateSMA.csv***, résolution en 5 tours) sont envisageables mais pas systématiques (comme en témoigne le fichier ***templateSMA2.csv***, resolution en 162 tours). En remplaçant les indices de la liste ***pvalues*** par *random.randint(O,4)* (lignes 111/112, pw_arg.py), on peut réaliser une analyse statistique du nombre de tours nécéssaires à une convergence. On obtient, pour environ 50 essais, la distribution suivante : 
+
+![image](https://user-images.githubusercontent.com/104861612/233893813-51097a38-7227-4ac0-9d3f-938b78979f86.png)
+
+On se rend également compte que, tandis que pour ***self.mode=True*** on obtient 100% de convergences, elles demeurent rares pour ***self.mode=False*** d'où la nécessité de ce paramètre.
