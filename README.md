@@ -70,8 +70,13 @@ L'alternance est bien respectée, ainsi que la logique de l'échange et des perf
 
 ### Résultats statistiques
 
-Comme visualisé plus haut, les résolutions faciles et rapides (correspondant au fichier ***templateSMA.csv***, résolution en 5 tours) sont envisageables mais pas systématiques (comme en témoigne le fichier ***templateSMA2.csv***, resolution en 162 tours). En remplaçant les indices de la liste ***pvalues*** par *random.randint(O,4)* (lignes 111/112, pw_arg.py), on peut réaliser une analyse statistique du nombre de tours nécéssaires à une convergence. On obtient, pour environ 50 essais, la distribution suivante : 
+Comme visualisé plus haut, les résolutions faciles et rapides (correspondant au fichier ***templateSMA.csv***, résolution en 5 tours) sont envisageables mais pas systématiques (comme en témoigne le fichier ***templateSMA2.csv***, resolution en 162 tours). En remplaçant les indices de la liste ***pvalues*** par *random.randint(O,4)* (lignes 111/112, pw_arg.py), on peut réaliser une analyse statistique du nombre de tours nécéssaires à une convergence. On obtient, pour environ 50 essais et 50 items, la distribution suivante (effectifs par nombres de tours nécessaires pour converger): 
 
 ![image](https://user-images.githubusercontent.com/104861612/233893813-51097a38-7227-4ac0-9d3f-938b78979f86.png)
 
 On se rend également compte que, tandis que pour ***self.mode=True*** on obtient 100% de convergences, elles demeurent rares pour ***self.mode=False*** d'où la nécessité de ce paramètre.
+
+Par ailleurs, la variation du nombre d'items a également, un effet sur le nombre de tours moyens nécessaires pour atteindre la convergence :
+![image](https://user-images.githubusercontent.com/104861612/233895738-dcf5edaf-594c-42dd-a159-3ddb98189209.png)
+
+Par ailleurs, l'écart-type (relatif et absolu) augmente très fortement avec le nombre d'items, jusqu'à se stabiliser au delà d'un certain seuil ; les distributions sont alors similaires à celle tracée plus haut.
