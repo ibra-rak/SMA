@@ -1,0 +1,50 @@
+Car name,Description,Cout_prod1,Consumption1,Durability1,Noise1,Environnement1,Cout_prod2,Consumption2,Durability2,Noise2,Environnement2
+Renault Clio,A popular and affordable compact car that has been in production since 1990.,1,1,0,1,2,2,0,3,4,1
+Peugeot 208,A stylish and practical hatchback with good fuel efficiency and safety features.,1,1,2,2,3,0,4,3,1,0
+Citroen C3,A versatile small car with distinctive styling and a comfortable ride.,4,0,3,0,1,4,0,2,0,3
+DS 3 Crossback,A premium compact SUV with a luxurious interior and advanced safety features.,1,3,0,4,4,3,1,1,4,0
+Alpine A110,A sleek and lightweight sports car that is designed for agility and speed.,3,0,1,0,2,4,4,3,4,1
+Bugatti Chiron,A hypercar with jaw-dropping performance and a price tag to match.,3,2,3,0,0,2,4,1,2,4
+Renault Captur,A compact crossover SUV that offers practicality and value for money.,0,0,2,3,1,1,2,2,4,1
+Peugeot 3008,A stylish and spacious crossover SUV with advanced safety and technology features.,1,0,3,0,1,2,4,4,2,0
+Citroen C4 Cactus,A quirky and practical hatchback with distinctive design features and good fuel efficiency.,0,4,4,1,1,2,1,2,0,0
+DS 7 Crossback,A luxurious and spacious SUV with a refined interior and advanced driver assistance features.,4,1,3,4,3,3,1,4,2,0
+Renault Twingo,A fun and agile city car that is ideal for urban driving.,1,0,4,4,4,3,4,1,0,2
+Peugeot 508,A sleek and stylish mid-size sedan with advanced technology features and good fuel efficiency.,1,3,0,2,4,0,0,4,2,0
+Citroen DS5,A luxurious and stylish hatchback with a high-quality interior and advanced safety features.,2,2,1,0,0,3,1,1,0,2
+DS 9,A premium executive sedan that combines comfort ; performance ; and style.,3,1,4,0,1,2,3,1,0,0
+Bugatti Veyron,A legendary hypercar with incredible speed and performance capabilities.,3,4,4,3,0,4,2,4,3,1
+Renault Megane,A practical and stylish compact car with good handling and fuel efficiency.,4,1,4,2,1,1,1,0,4,2
+Peugeot 2008,A versatile and practical crossover SUV with good fuel efficiency and safety features.,1,3,0,0,3,4,3,1,2,1
+Citroen C1,A compact and affordable city car with distinctive styling and good fuel efficiency.,1,1,1,0,4,3,2,2,4,2
+Renault Kadjar,A spacious and comfortable mid-size SUV with good handling and performance.,3,3,0,2,1,3,4,3,2,4
+Peugeot 108,A small and practical city car with a fun and stylish design.,2,2,1,1,4,4,1,1,3,4
+Citroen C5 Aircross,A spacious and comfortable SUV with a distinctive design and advanced technology features.,3,1,0,2,2,0,2,4,4,0
+DS 4,A stylish and luxurious hatchback with advanced technology and safety features.,4,2,4,1,0,4,4,3,0,0
+Renault Zoe,A popular and affordable electric car with good range and charging capabilities.,3,1,2,4,2,2,4,1,1,4
+Peugeot 308,A practical and stylish compact car with good handling and fuel efficiency.,0,3,2,0,1,2,0,3,3,3
+Citroen C4 Picasso,A spacious and versatile MPV with good fuel efficiency and advanced technology features.,2,0,0,4,3,2,4,3,2,3
+Peugeot 5008,A spacious and practical SUV with good handling and advanced safety features.,2,1,4,0,4,3,3,1,2,1
+Citroen Berlingo,A versatile and practical van with a spacious interior and good cargo capacity.,4,1,3,3,3,0,3,4,3,2
+Renault Scenic,A practical and spacious MPV with good handling and fuel efficiency.,0,1,1,0,0,1,3,2,2,2
+Peugeot 407,A stylish and comfortable mid-size sedan with good performance and handling.,4,4,1,4,2,2,3,1,4,1
+Renault Talisman,A luxurious and spacious mid-size sedan with advanced technology and safety features.,0,4,2,0,3,2,3,2,2,4
+Citroen C6,A luxurious and stylish executive sedan with advanced technology and safety features.,1,2,3,3,2,0,0,1,2,4
+Peugeot 4007,A practical and spacious SUV with good handling and off-road capabilities.,4,2,1,3,0,2,2,2,1,0
+Bugatti EB110,A legendary supercar with impressive performance and handling capabilities.,4,0,3,1,0,4,2,4,1,3
+Renault Avantime,A stylish and innovative coupe with a unique design and advanced technology features.,3,2,4,0,4,0,4,1,2,1
+Peugeot RCZ,A sporty and stylish coupe with good handling and performance.,0,0,4,4,3,4,2,0,0,1
+Citroen XM,A luxurious and spacious executive sedan with advanced technology and safety features.,3,4,4,4,4,2,1,2,1,0
+Peugeot 207,A practical and efficient compact car with a sporty design and good handling.,0,2,1,3,3,2,3,1,3,3
+Citroen DS3,A stylish and quirky hatchback with a comfortable ride and advanced safety features.,4,1,0,3,4,1,2,1,4,1
+Renault Wind,A small and sporty convertible with good handling and an attractive design.,2,2,4,2,2,2,4,3,1,0
+Peugeot 106,A compact and affordable city car with good fuel efficiency and practicality.,0,1,2,4,2,2,3,2,4,0
+Citroen ZX,A practical and reliable mid-size family car with a spacious interior and good handling.,1,0,1,3,2,1,1,4,0,2
+Renault 21,A comfortable and spacious mid-size sedan with a smooth ride and good fuel efficiency.,3,1,0,0,4,0,0,3,1,3
+Peugeot 605,A luxurious and spacious executive sedan with advanced technology and safety features.,2,0,3,3,0,2,1,0,3,2
+Citroen Xsara,A practical and reliable mid-size family car with good handling and fuel efficiency.,0,3,4,1,2,4,2,2,3,2
+Renault Espace,A versatile and spacious MPV with advanced technology and comfort features.,2,3,0,0,4,3,0,2,2,0
+Peugeot 306,A practical and reliable compact car with good fuel efficiency and handling.,2,1,3,1,2,2,3,1,1,1
+Citroen BX,A practical and reliable mid-size family car with good fuel efficiency and comfort.,1,0,1,4,4,4,0,4,1,3
+Renault 19,A practical and reliable compact car with good fuel efficiency and handling.,0,2,3,1,4,3,2,4,2,4
+Peugeot 205,A legendary and iconic small car with a sporty design and good handling.,4,3,1,0,1,3,1,2,2,1
