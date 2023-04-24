@@ -80,3 +80,8 @@ Par ailleurs, la variation du nombre d'items a également, un effet sur le nombr
 ![image](https://user-images.githubusercontent.com/104861612/233895738-dcf5edaf-594c-42dd-a159-3ddb98189209.png)
 
 Par ailleurs, l'écart-type (relatif et absolu) augmente très fortement avec le nombre d'items, jusqu'à se stabiliser au delà d'un certain seuil ; les distributions sont alors similaires à celle tracée plus haut.
+
+### Ouverture
+
+Bien évidemment, il est logique de vouloir étendre ce système à davantage d'agents afin d'analyser la difficulté de convergence du système lorsque chaque agent a ses propres contraintes ; il pourrait alors être pertinent de mettre en place des mécanismes démocratiques pour ne pas laisser un individu bloquer le groupe par exemple.  
+Néanmoins, une possibilité d'ouverture pourrait être d'améliorer le systèe argumentatif de ces agents, afin de leur permettre de faire évoluer leur *Knowledge Base*, piste non exploitée sur ce devoir (cf. partie 7), mais qui, à notre sens, pourrait être très pertinente afin de modéliser un comportement plus proche de celui des êtres humains.
